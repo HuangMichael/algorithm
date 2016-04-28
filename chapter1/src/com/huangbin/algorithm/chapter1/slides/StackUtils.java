@@ -1,4 +1,4 @@
-package com.huangbin.algorithm.chaprter1.slides;
+package com.huangbin.algorithm.chapter1.slides;
 
 import java.util.Stack;
 

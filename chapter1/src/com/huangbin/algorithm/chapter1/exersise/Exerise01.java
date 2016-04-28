@@ -1,4 +1,4 @@
-package com.huangbin.algorithm.chaprter1.exersise;
+package com.huangbin.algorithm.chapter1.exersise;
 
 /**
  * Created by huangbin on 2016/4/26.
